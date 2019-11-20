@@ -27,8 +27,8 @@ public class CodeGenerate {
     private static String author = "阿来小同学";
     private static String ip = "localhost";
     private static String port = "3306";
-    private static String dbname = "new-work"; // 数据库名
-    private static String url = "jdbc:mysql://localhost:3306/new-work?useUnicode=true&useSSL=false&characterEncoding=utf8";
+    private static String dbname = "al"; // 数据库名
+    private static String url = "jdbc:mysql://localhost:3306/al?useUnicode=true&useSSL=false&characterEncoding=utf8";
     private static String driver = "com.mysql.jdbc.Driver";
     private static String username = "root";
     private static String password = "root";
