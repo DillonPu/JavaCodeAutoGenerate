@@ -1,0 +1,2 @@
+# JavaCodeAutoGenerate
+基于mabytais plus自动生成mapper文件，model文件，entity文件和service接口文件
