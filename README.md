@@ -1,2 +1,4 @@
 # JavaCodeAutoGenerate
+连接数据库
 基于mabytais plus自动生成mapper文件，model文件，entity文件和service接口文件
+自定义表或者全部表
